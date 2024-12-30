@@ -1,4 +1,3 @@
-import React from 'react';
 import { Shield, Clock, Wrench } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
@@ -22,7 +21,7 @@ const services = [
     icon: Clock,
     title: 'Rehabilitación de Ascensores',
     description:
-      'Recuperamos ascensores en desuso, aplicando mejoras tecnológicas para optimizar su rendimiento.',
+      'Recuperamos ascensores en desuso o fuera de servicio, aplicando mejoras tecnológicas para optimizar su rendimiento.',
     image: 'https://prolift.cl/wp-content/uploads/2024/08/MG_8587.jpg.webp'
   },
 ];
