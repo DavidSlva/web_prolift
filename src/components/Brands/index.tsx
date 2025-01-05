@@ -8,8 +8,8 @@ const Brands = () => {
         dots: true, // Puedes habilitar los puntos de navegación si lo deseas
         infinite: true,
         speed: 500,
-        slidesToShow: 5,
-        slidesToScroll: 5,
+        // slidesToShow: 5,
+        slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 3000, // Cambia cada 3 segundos
         arrows: false, // Ocultar flechas de navegación
